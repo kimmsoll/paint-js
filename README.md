@@ -1,2 +1,17 @@
 # paintjs
-Painting Board made with VanillaJS
+
+### 스택
+### HTML / CSS / Vanilla JS
+
+### 주요 기능
+- 버튼 클릭을 통해 FILL OR PAINT 모드 선택이 된다
+
+- 원하는 색을 선택할 수 있다
+
+- FILL 모드로 색 선택 후 도화지를 클릭하면, 전체 채우기가 된다
+
+- PAINT 모드로 색 선택 후 도화지에 클릭 앤 드래그를 통해 선을 그릴 수 있다
+
+- 스크롤 바를 통해 선 굵기 조절이 가능하다
+
+- SAVE 버튼을 통해 그림을 원하는 위치에 저장할 수 있다

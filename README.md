@@ -1,4 +1,4 @@
-# paintjs
+# Drawing board
 
 ### 스택
 ### HTML / CSS / Vanilla JS
